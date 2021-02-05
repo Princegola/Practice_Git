@@ -1,0 +1,11 @@
+
+Advanced Git Tutorials Overview | Atlassian Git Tutorialwww.atlassian.com › git › tutorials › advanced-overview
+Refine your existing Git skills by taking a look under the hood at advanced Git features.
+‎Git Hooks · ‎Git submodule · ‎Advanced Git Log · ‎Git Cherry Pick
+
+Learn Enough Git to Be Dangerous (Michael Hartl)www.learnenough.com › git-tutorial
+The Learn Enough All Access Subscription includes the entire Learn Enough introductory sequence and the full Ruby on Rails Tutorial. More than 2500 pages ...
+‎3. Intermediate workflow · ‎Chapter 2 · ‎4. Collaborating
+
+The Advanced Git Guide | Toptalwww.toptal.com › git › the-advanced-git-guide
+Most developers could probably be using Git more efficiently. Learn how to wield git stash, git reset, git bisect, git squash, and git rebase for maximum ...
